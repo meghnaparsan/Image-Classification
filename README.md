@@ -1,6 +1,6 @@
-# Automatic Trash Sorting
+# Automatic Trash Sorter
 
-A Python Project to build an Image Classification model, to identify and claasify trash based on the material they are made of. 
+A Python Project to build an Image Classification deep learning model, to identify and claasify trash based on the material they are made of. 
 
 Model Used: RESTNET34
 
